@@ -1,4 +1,4 @@
 # ping22
-tcp port pinging utility
+tcp port pinging utility wrapper for wireshark
 
-I'm editing this in the browser. Neat.
+Probably will be re-written at some point to use netcat, but this was easier for now.
